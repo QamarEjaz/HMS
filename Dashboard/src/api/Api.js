@@ -1,0 +1,15 @@
+export const getAllContactUs = "http://localhost:5000/api/v1/doctors";
+export const register = "http://localhost:5000/api/register";
+export const getAllLeads = "http://localhost:5000/api/getAllLeads";
+export const getAllScheduler = "http://localhost:5000/api/getAllScheduler";
+export const updateUserById = "http://localhost:5000/api/updateUserById";
+export const searchUser = "http://localhost:5000/api/searchUser";
+export const allUsers = "http://localhost:5000/api/allUsers";
+export const changeUserStatus = "http://localhost:5000/api/changeUserStatus";
+export const removeUserById = "http://localhost:5000/api/removeUserById";
+export const userlogin = "http://localhost:5000/api/v1/login";
+export const contactusSearch = "http://localhost:5000/api/searchContactus";
+export const leadsSearch = "http://localhost:5000/api/searchLeads";
+export const schedulerSearch = "http://localhost:5000/api/searchSchedulers";
+export const subscriberSearch = "http://localhost:5000/api/searchSubscribers";
+export const getAllsubscribers = "http://localhost:5000/api/getAllSubscribers";

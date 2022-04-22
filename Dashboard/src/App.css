@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans&family=Encode+Sans+Expanded:wght@600&family=Fredoka+One&family=Lato&family=Open+Sans&family=Poppins&display=swap");
+
+
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+body{
+    background: #F5F6F8;
+    font-family: 'Poppins', sans-serif;
+}

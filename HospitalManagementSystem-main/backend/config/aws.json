@@ -1,0 +1,12 @@
+{
+  "development": {
+    "accessKeyID": "AKIAQPHEPZNHKK37RLZD",
+    "secretAccessKey": "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",
+    "bucketName": "amazkey"
+  },
+  "production": {
+    "accessKeyID": "AKIAR5TDDQVF7YSCI4KL",
+    "secretAccessKey": "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",
+    "bucketName": "nursingworldnigeria"
+  }
+}
